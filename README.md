@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programing
 - 📫 My social networks
 - [Instagram](https://www.instagram.com/danidepp_official/)
-- [Youtube](https://youtube.com/c/DANIDepp)
 
 <!---
 DANIDepp/DANIDepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
